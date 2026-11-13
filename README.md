@@ -582,35 +582,7 @@ Data Analyst \| Excel \| SQL \| Power BI \| Python
 
 ------------------------------------------------------------------------
 
-## ■ Project Perspective
 
-This project demonstrates an approach to analytics that starts with the
-**business decision**, not the visual.
-
-The objective was to move through:
-
-> **Business Problem → Analytical Framework → Evidence → Interpretation
-> → Action → Communication**
-
-The value of the project lies in deciding **which signals matter, how
-they should be structured, what the evidence means, and what the
-business should do with it.**
-
-A strong analytics solution should therefore go beyond:
-
-> *"What happened?"*
-
-It should also ask:
-
-> **Where did it happen? Why does it matter? What pattern should the
-> business investigate? What action follows from the evidence?**
-
-That is the analytical role this project is designed to demonstrate.
-
-> **Understand the business. Segment the customer. Measure value. Find
-> the concentration. Turn the evidence into action.**
-
-------------------------------------------------------------------------
 
 ::: {align="center"}
 ### Customer Value → Revenue → Channel Contribution → Portfolio Concentration → Business Action
