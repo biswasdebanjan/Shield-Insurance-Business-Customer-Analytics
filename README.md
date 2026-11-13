@@ -2,7 +2,9 @@
 
 ![Shield Insurance Business & Customer Analytics](assets/title-card.png)
 
-[**View the Live Power BI Dashboard →**](YOUR_POWER_BI_LINK)
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiOGZkMTQ3ZDctYjhlZS00ZjgwLTliNGItYWRmNWQ0MTVmMDBhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=64fcee9000a502600694"><strong>View the Live Power BI Dashboard →</strong></a>
+</p>
 
 ------------------------------------------------------------------------
 
