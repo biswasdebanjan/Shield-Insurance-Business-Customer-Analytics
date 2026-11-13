@@ -1,0 +1,18 @@
+# Power BI source files
+*.pbix
+*.pbit
+
+# Source datasets / local data extracts
+*.csv
+*.xlsx
+*.xls
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
