@@ -584,8 +584,4 @@ Data Analyst \| Excel \| SQL \| Power BI \| Python
 
 
 
-::: {align="center"}
-### Customer Value → Revenue → Channel Contribution → Portfolio Concentration → Business Action
 
-**Built with Power BI**
-:::
